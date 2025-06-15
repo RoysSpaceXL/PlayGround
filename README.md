@@ -30,3 +30,9 @@ All visible folders including 0Baseline, 1Rookie, and 2Arcade
 The complete contents of the 45 folder
 Root level files like gitattributes
 Maintains proper Markdown formatting
+
+# 0 Baseline
+- site is hosted at:  
+https://github.com/RoysSpaceXL/PlayGround/blob/0BaseLine/0BaseLine/45.2%20Vision%20Bubbles%20From%20Dreams%20to%20Creation%20Flow.md
+or  
+[0Baseline;](/0BaseLine/45.2%20Vision%20Bubbles%20From%20Dreams%20to%20Creation%20Flow.md)
