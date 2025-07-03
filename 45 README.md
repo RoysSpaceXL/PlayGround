@@ -1,5 +1,5 @@
 ## from chaos to organized order, from real life situations to organized project order.
-i want to higlight the partlyflow of "dreams" to "creation" in another graph like flowchart and elaborate on it.
+i want to highlight the partly flow of "dreams" to "creation" in another graph like flowchart and elaborate on it.
 i want to visualize this in mermaid graphs.
 
 AZR LLM Inspiration /visions;
@@ -63,8 +63,8 @@ Sunday, May 11, 2025
             6 2x perfect triples in balance
             7 new additions / improvements
             8 final product finalized
-            9 interaction / bondaging all subparts as equal / class / properties
-            10 = 0 full conception conceived, all inclusive fulfilment, to be enjoyed and observed as an end-product/ entity / creation
+            9 interaction / bonding all subparts as equal / class / properties
+            10 = 0 full conception conceived, all inclusive fulfillment, to be enjoyed and observed as an end-product/ entity / creation
             11 expansion with previous proven steps in to new conception/area /creation
             12 is the final product, the end of the journey, the circle of time completed
 
@@ -108,7 +108,7 @@ https://arxiv.org/abs/2505.03335
 ### 5.2. Key Findings
 
 
- • Codepriors amplify reasoning. 
+ • Code priors amplify reasoning. 
 The base Qwen-Coder-7b model started with math performance 3.6 points lower than Qwen-7b.
  But after AZR training for both models, the coder variant surpassed the base by 0.7 points, suggesting that strong coding capabilities
  may potentially amplify overall reasoning improvements after AZR training.

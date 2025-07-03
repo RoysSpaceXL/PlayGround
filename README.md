@@ -12,7 +12,7 @@ numberical;
 |123	|123	|123|
 |123	|123	|123|
 
-## 1.2 projectplan 
+## 1.2 project-plan 
 - start, action, end;
 
 Complete build up in 1 project/container/context within 9 blocks;
@@ -89,14 +89,14 @@ graph LR;
 
 ## Goals
 - overall health of the tree from root to leaf and overall improvement. DNA/blueprint of the tree is and should be uniform.
-- each leaf,branch,root should have this basetype of Visualization to be monitored for health and improvement or to be transformed according this principle to be unified.
-- unififying action should be chunking/splitting in as many needed tripple steps approach according this 47 project design principles, but keeping the begin source data intact from every file.
+- each leaf,branch,root should have this base-type of Visualization to be monitored for health and improvement or to be transformed according this principle to be unified.
+- unifying action should be chunking/splitting in as many needed triple steps approach according this 47 project design principles, but keeping the begin source data intact from every file.
 - output should be at end of file or an new file with the same name as the input file, but with a suffix like _output.md or _result.md
 ## Visuals of this vision.
 - in mermaid diagrams
 
 # 45.2 Vision Bubbles From Dreams to Creation Flow
-## 1 work in progress Classdiagram
+## 1 work in progress Class diagram
 ### inspirations
 From chaos to organized order, from real life situations to organized project order.
 I want to highlight the partly flow of "dreams" to "creation" in another graph like flowchart and elaborate on it.

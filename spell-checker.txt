@@ -1,0 +1,39 @@
+Customization
+The spell checker configuration can be controlled via VS Code preferences or cspell.json configuration file.
+
+Order of precedence:
+
+Workspace Folder cspell.json
+Workspace Folder .vscode/cspell.json
+VS Code Preferences cSpell section.
+Adding words to the Workspace Dictionary
+You have the option to add you own words to the workspace dictionary. The easiest, is to put your cursor on the word you wish to add, when you lightbulb shows up, hit Ctrl+. (windows) / Cmd+. (Mac). You will get a list of suggestions and the option to add the word.
+
+You can also type in a word you want to add to the dictionary: F1 add word -- select Add Word to Dictionary and type in the word you wish to add.
+
+cspell.json
+Words added to the dictionary are placed in the cspell.json file in the workspace folder. Note, the settings in cspell.json will override the equivalent cSpell settings in VS Code's settings.json.
+
+Example cspell.json file
+// cSpell Settings
+{
+    // Version of the setting file.  Always 0.2
+    "version": "0.2",
+    // language - current active spelling language
+    "language": "en",
+    // words - list of words to be always considered correct
+    "words": [
+        "mkdirp",
+        "tsmerge",
+        "githubusercontent",
+        "streetsidesoftware",
+        "vsmarketplacebadge",
+        "visualstudio"
+    ],
+    // flagWords - list of words to be always considered incorrect
+    // This is useful for offensive words and common spelling errors.
+    // For example "hte" should be "the"
+    "flagWords": [
+        "hte"
+    ]
+}
