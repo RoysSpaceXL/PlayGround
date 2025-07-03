@@ -29,11 +29,13 @@ each parent-content/context can be detailed out in max 3 child levels.
     to import in the Playground data repository;
 
 ### 1.3.1 Overview of 0Baseline - 2Arcade project documents beads
-- core pricipals;
+- core principles;
     1.  Vision/Plan/start
     2. Action/design/produce
     3. Result/output/takeaways
     reference: [470](./47%20Mission%20Plan%20For%20Me%20And%20Entity%20X/470doc.md)
+    
+![Overview](./README0.png)
 
 ```mermaid 
 ---
@@ -43,7 +45,7 @@ title: Overview of 0Baseline - 2Arcade project documents beads
 graph LR;
     ID_X{Entity: ID_X};
 
-    H471[(doc/vison PlGr)]
+    H471[(doc/vision PlGr)]
     I471[doc/plan 0Baseline]
     J471[/Doc/action 0Baseline\]
     K471[[doc/result 0Baseline]]
@@ -56,7 +58,7 @@ graph LR;
     ID_X -.- H471
 
 
-    H472[(doc/vison PlGr)]
+    H472[(doc/vision PlGr)]
     I472[doc/plan 1Rookie]
     J472[/Doc/action 1Rookie\]
     K472[[doc/result 1Rookie]]
@@ -69,7 +71,7 @@ graph LR;
     ID_X -.- H472
 
 
-    H473[(doc/vison PlGr)]
+    H473[(doc/vision PlGr)]
     I473[doc/plan 2Arcade]
     J473[/Doc/action 2Arcade\]
     K473[[doc/result 2Arcade]]
