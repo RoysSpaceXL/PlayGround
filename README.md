@@ -1,41 +1,52 @@
-# PlayGround
-- A collection of projects and experiments in various stages of development, including baseline, rookie, and arcade levels.
-- Inspiration from AZR LLM, focusing on the journey from chaos to organized order.
+# Playground
+- A collection of projects and experiments in various stages of development, including baseline, rookie, and arcade levels. Inspiration from AZR LLM, focusing on the journey from chaos to organized order. 
 -  project principles/philosophy/framework
 - results/visuals of the action.
+## 1.1 Visions and Goals
+- A collection of projects and experiments in various stages of development.  
+It should be easy to digest for beginner to advanced users.  
+This project should also presents itself as an open invitation for potential contributors with different levels of skills for spreading and growing the project core principles.  
 
-## 1.1 principles of the engineering
+-  Overall health of the project tree from root to leaf and overall improvement.  
+- DNA/blueprint of the tree is and should be uniform.
+- each leaf,branch,root should have this base-type of Visualization to be monitored for health and improvement or to be transformed according this principle to be unified.
+- unifying action should be chunking/splitting in as many needed triple steps approach according this 47 project design principles, but keeping the begin source data intact from every file.
+- output should be at end of file or an new file with the same name as the input file, but with a suffix like _output.md or _result.md
 
-numberical;  
-|123	|123	|123|
-|-----|-----|---|  
-|123	|123	|123|
-|123	|123	|123|
 
+## 1.2 principles of the engineering
+- Visions and goals
+- inspirations and motivations
+- project plan and execution designs/philosophy;numerical approach:  
+```
+|123|123|123|
+|---|---|---|
+|123|123|123|
+|123|123|123|
+```
 ## 1.2 project-plan 
 - start, action, end;
 
 Complete build up in 1 project/container/context within 9 blocks;
-| start | action | stop |
-|-------|--------|------|
-| mission/intro | plan/project/build | result |
-| vision | actions | realization |
-| target | design/produce | takeaways |
+| start            | action            | stop   |
+|------------------|-------------------|--------|
+| mission/intro    | plan/project/build | result |
+| vision           | actions           | realization |
+| target           | design/produce    | takeaways |
 
 ## 1.3 result/visuals  
-each block should be exchangeable / duplicateble;
+each block should be exchangeable / replicable;
 each parent-content/context can be detailed out in max 3 child levels.   
-- results in new Playground data for markdown.js  
-    to import in the Playground data repository;
+results in new Playground data for markdown.js  
+for import in the Playground data repository;
 
 ### 1.3.1 Overview of 0Baseline - 2Arcade project documents beads
 - core principles;
     1.  Vision/Plan/start
     2. Action/design/produce
     3. Result/output/takeaways
-    reference: [470](./47%20Mission%20Plan%20For%20Me%20And%20Entity%20X/470doc.md)
+- reference: [470](./47%20Mission%20Plan%20For%20Me%20And%20Entity%20X/470doc.md)
     
-![Overview](./README0.png)
 
 ```mermaid 
 ---
@@ -85,20 +96,14 @@ graph LR;
 
 ```
 
-
-
 # 3 results/visuals of the action.
 
-## Goals
-- overall health of the tree from root to leaf and overall improvement. DNA/blueprint of the tree is and should be uniform.
-- each leaf,branch,root should have this base-type of Visualization to be monitored for health and improvement or to be transformed according this principle to be unified.
-- unifying action should be chunking/splitting in as many needed triple steps approach according this 47 project design principles, but keeping the begin source data intact from every file.
-- output should be at end of file or an new file with the same name as the input file, but with a suffix like _output.md or _result.md
 ## Visuals of this vision.
 - in mermaid diagrams
+![Overview](./images/xREADME0.png)
 
-# 45.2 Vision Bubbles From Dreams to Creation Flow
-## 1 work in progress Class diagram
+## 45.2 Vision Bubbles From Dreams to Creation Flow
+### 1 work in progress Class diagram
 ### inspirations
 From chaos to organized order, from real life situations to organized project order.
 I want to highlight the partly flow of "dreams" to "creation" in another graph like flowchart and elaborate on it.
@@ -107,11 +112,11 @@ AZR LLM Inspiration /visions;
 - Started with a Main overview Mermaid graph "45 Vision Bubbles From Chaos to Order" as a baseline.
 - Goal: Visions Representation in Mermaid Graphs "45.2 Vision Bubbles From Dreams to Creation Flow" Based On AZR LLM Inspiration /Visions.
 
-!["Vision Bubbles From Chaos to Order According Viewpoint X" as startpoint.](./README1.png)
+!["Vision Bubbles From Chaos to Order According Viewpoint X" as startpoint.](./images/xREADME1.png)
 
 ## 2.1 Work in Progress Flowchart (Update)
 
-!["45.2 Vision Bubbles From Dreams to Creation Flow"](./README2.png) Based On AZR LLM Inspiration /Visions.
+!["45.2 Vision Bubbles From Dreams to Creation Flow"](./images/xREADME2.png) Based On AZR LLM Inspiration /Visions.
 
 # PlayGround Project Environment
 - The project is hosted on GitHub, with a structured approach to development and documentation.
@@ -121,7 +126,7 @@ https://github.com/RoysSpaceXL/PlayGround/blob/0BaseLine/0BaseLine/45.2%20Vision
 - or link: [0Baseline; From Dreams to Creation Flow](/0BaseLine/45.2%20Vision%20Bubbles%20From%20Dreams%20to%20Creation%20Flow.md)
 - The site is live at https://roysspacexl.github.io/PlayGround/
 
-# PlayGround Project Overview
+## PlayGround Project Overview
 - Triple steps approach to project development:
   - **0Baseline**: Initial project setup and basic structure.
   - **1Rookie**: Intermediate development with added features and improvements.
