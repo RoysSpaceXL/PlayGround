@@ -1,4 +1,4 @@
-# PlayGround
+# Playground
 - A collection of projects and experiments in various stages of development, including baseline, rookie, and arcade levels. Inspiration from AZR LLM, focusing on the journey from chaos to organized order. 
 -  project principles/philosophy/framework
 - results/visuals of the action.
@@ -118,15 +118,15 @@ AZR LLM Inspiration /visions;
 
 !["45.2 Vision Bubbles From Dreams to Creation Flow"](./README2.png) Based On AZR LLM Inspiration /Visions.
 
-# PlayGround Project Environment
+# Playground Project Environment
 - The project is hosted on GitHub, with a structured approach to development and documentation.
 - Site is hosted at:  
-https://github.com/RoysSpaceXL/PlayGround/blob/0BaseLine/0BaseLine/45.2%20Vision%20Bubbles%20From%20Dreams%20to%20Creation%20Flow.md  
+https://github.com/RoysSpaceXL/Playground/blob/0BaseLine/0BaseLine/45.2%20Vision%20Bubbles%20From%20Dreams%20to%20Creation%20Flow.md  
 
 - or link: [0Baseline; From Dreams to Creation Flow](/0BaseLine/45.2%20Vision%20Bubbles%20From%20Dreams%20to%20Creation%20Flow.md)
-- The site is live at https://roysspacexl.github.io/PlayGround/
+- The site is live at https://roysspacexl.github.io/Playground/
 
-# PlayGround Project Overview
+# Playground Project Overview
 - Triple steps approach to project development:
   - **0Baseline**: Initial project setup and basic structure.
   - **1Rookie**: Intermediate development with added features and improvements.
@@ -181,13 +181,13 @@ https://github.com/RoysSpaceXL/PlayGround/blob/0BaseLine/0BaseLine/45.2%20Vision
   ## 3 Results/Review/Takeaways
   - Finalize all project documentation and user guides.
   - Prepare for project launch and post-launch support.
-# PlayGround Project Overview
+# Playground Project Overview
 - This project is structured to provide a clear and organized approach to development, with each stage building upon the previous one.
 - The goal is to create a comprehensive and functional project that meets the defined objectives and provides value to users.
 ## Project Structure
 
 ```
-PlayGround
+Playground
 ├── 0Baseline
 ├── 1Rookie
 ├── 2Arcade
